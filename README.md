@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me parvyadav555@gmail.com
 - ⚡ Happy to see you here..
+- Able to any type of Work in Software Engineering
+- AI/ML Engineer
+- Devops Engineer
+- Q/A Engineer
 
 <!---
 Parvyadav123/Parvyadav123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
