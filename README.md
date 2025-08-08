@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Parvyadav123
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m Full Stack Developer
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me parvyadav555@gmail.com
-- ⚡ Happy to see you here..
+- Hi, I’m @Parvyadav123
+- I’m interested in Software Engineering
+- I’m Full Stack Developer
+- I’m looking to collaborate 
+- How to reach me parvyadav555@gmail.com
+- Happy to see you here..
 - Able to any type of Work in Software Engineering
 - AI/ML Engineer
 - Devops Engineer
