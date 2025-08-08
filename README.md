@@ -3,7 +3,7 @@
 - I’m Full Stack Developer
 - I’m looking to collaborate 
 - How to reach me parvyadav555@gmail.com
-- Able to any type of Work in Software Engineering
+- Able to do any type of Work in Software Engineering
 - AI/ML Engineer
 - Devops Engineer
 - Q/A Engineer
