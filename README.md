@@ -2,7 +2,7 @@
 - I’m interested in Software Engineering
 - I’m Full Stack Developer
 - I’m looking to collaborate 
-- How to reach me 9571691100/parvyadav555@gmail.com
+- How to reach me parvyadav555@gmail.com
 - Able to any type of Work in Software Engineering
 - AI/ML Engineer
 - Devops Engineer
