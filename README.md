@@ -1,6 +1,6 @@
 - Hi, I’m @Parvyadav123
 - I’m interested in Software Engineering
-- I’m Full Stack Developer
+- I’m Full Stack Software Developer
 - I’m looking to collaborate 
 - How to reach me parvyadav555@gmail.com
 - Able to do any type of Work in Software Engineering
