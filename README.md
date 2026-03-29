@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-I’m a passionate and versatile **Software Engineer** with experience in **Full Stack Development, AI/ML Engineering, DevOps, and QA Engineering**. :contentReference[oaicite:0]{index=0}  
+I’m a passionate and versatile **Software Engineer** with experience in **Full Stack Development, AI/ML Engineering, DevOps, and QA Engineering**.
 
 I enjoy building scalable, efficient, and user-focused applications — from designing intuitive frontends to developing robust backend systems and deploying them reliably in production.
 
