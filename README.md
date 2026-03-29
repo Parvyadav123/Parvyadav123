@@ -16,8 +16,8 @@
 <a href="https://www.linkedin.com/in/parv-yadav-83a77b268/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:parvyadav555@gmail.com?subject=Let's%20Connect&body=Hi%20Parv,%20I%20saw%20your%20GitHub%20profile...">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:parvyadav555@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
