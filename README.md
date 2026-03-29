@@ -13,7 +13,7 @@
 <a href="https://github.com/Parvyadav123">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/parv-yadav-83a77b268/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:parvyadav555@gmail.com">
@@ -29,16 +29,14 @@ I’m a passionate and versatile **Software Engineer** with experience in **Full
 
 I enjoy building scalable, efficient, and user-focused applications — from designing intuitive frontends to developing robust backend systems and deploying them reliably in production.
 
-I am always exploring new technologies and solving real-world problems through code.
-
 ---
 
 ## 🚀 What I Do
 
-- 💻 Full Stack Development (Frontend + Backend)  
-- 🤖 AI/ML Model Development & Integration  
-- ⚙️ DevOps (CI/CD, Deployment, Automation)  
-- 🧪 QA Engineering (Testing, Debugging)  
+- 💻 Full Stack Development  
+- 🤖 AI/ML Engineering  
+- ⚙️ DevOps & Automation  
+- 🧪 QA & Testing  
 - 🔍 Performance Optimization  
 
 ---
@@ -49,31 +47,27 @@ I am always exploring new technologies and solving real-world problems through c
 `Java` `Python` `TypeScript` `SQL` `Bash`
 
 ### 🌐 Frontend
-`React` `Next.js` `Angular` `Vue` `TailwindCSS` `Bootstrap`
+`React` `Next.js` `Angular` `Vue` `TailwindCSS`
 
 ### 🔧 Backend
 `Node.js` `Express` `NestJS` `Django` `FastAPI` `Spring`
 
 ### 🤖 AI / ML
-`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy`
+`TensorFlow` `PyTorch` `Scikit-learn` `Pandas`
 
 ### ⚙️ DevOps & Cloud
-`Docker` `Kubernetes` `AWS` `Firebase` `Vercel` `Nginx` `Jenkins` `Terraform`
+`Docker` `Kubernetes` `AWS` `Firebase` `Nginx` `Jenkins`
 
 ### 🗄️ Databases
-`MongoDB` `MySQL` `PostgreSQL` `Redis` `Cassandra` `DynamoDB`
-
-### 🧪 Testing / QA
-`Jest` `Cypress` `Selenium` `Vitest`
+`MongoDB` `MySQL` `PostgreSQL` `Redis`
 
 ---
 
 ## ✨ What Makes Me Different
 
-- Ability to work across **multiple domains (Full Stack + AI + DevOps + QA)**  
-- Strong **problem-solving mindset**  
-- Focus on **clean, scalable, and production-ready code**  
-- Fast learner & adaptable to new technologies  
+- Multi-domain expertise (Full Stack + AI + DevOps + QA)  
+- Strong problem-solving mindset  
+- Focus on scalable and production-ready systems  
 
 ---
 
@@ -81,9 +75,8 @@ I am always exploring new technologies and solving real-world problems through c
 
 I’m open to working on:
 - Real-world impactful projects  
-- Scalable systems  
 - AI/ML applications  
-- Open source contributions  
+- Scalable backend systems  
 
 ---
 
@@ -93,23 +86,31 @@ I’m open to working on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Parvyadav123&theme=dark&hide_border=true&show_icons=true">
-<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Parvyadav123&theme=dark&hide_border=true">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Parvyadav123&show_icons=true&theme=radical&hide_border=true">
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Parvyadav123&theme=radical&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parvyadav123&theme=react-dark&hide_border=true">
 </p>
 
 ---
 
-## 🧩 Top Languages
+## 🧩 Top Languages & Expertise
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvyadav123&layout=compact&theme=dark&hide_border=true">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvyadav123&layout=compact&theme=radical&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs,aws,docker,kubernetes,mongodb,postgres&perline=5">
 </p>
 
 ---
 
-## ⚡ Fun Line
+## ⚡ Developer Mindset
 
-> *"I don't just write code — I build scalable solutions."* 🚀
+> *"I don’t just code — I design, optimize, and scale systems."* 🚀
